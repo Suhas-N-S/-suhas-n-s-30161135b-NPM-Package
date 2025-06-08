@@ -1,0 +1,25 @@
+{
+  "name": "@suhas-n-s-30161135b/resume-cli",
+  "version": "1.0.0",
+  "description": "CLI resume for Suhas N S",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "resume-cli": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "resume",
+    "cli",
+    "suhas",
+    "npx"
+  ],
+  "author": "Suhas N S",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^6.2.1",
+    "chalk": "^5.4.1"
+  }
+}
